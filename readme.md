@@ -815,6 +815,9 @@ A curated list of resources related to Industrial Control System (ICS) security.
 - [Awesome Web Hacking](https://github.com/infoslack/awesome-web-hacking)<br>
 This list is for anyone wishing to learn about web application security but do not have a starting point.
 
+- [Pentest Mindmap](https://pentestmindmap.com)<br>
+Interactive mindmap with 11,600+ pentesting commands organized across 32 categories. Free reference for anyone learning offensive security.
+
 - [Awesome Sec Talks](https://github.com/PaulSec/awesome-sec-talks)<br>
 A curated list of awesome Security talks.
 
